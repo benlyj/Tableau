@@ -1,5 +1,5 @@
 # Customer Segmentation Dashboard
-**Access the full, interactive dashboard at Tableau Public using this link:**
+**Access the full, interactive dashboard on Tableau Public using this link:**
 https://public.tableau.com/views/Section6_16316397522840/SegmentationDash?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 <img src = './customer_segmentation_dashboard_screenshot.png'>
 
