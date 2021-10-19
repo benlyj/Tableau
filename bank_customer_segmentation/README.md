@@ -1,4 +1,4 @@
-# Customer Segmentation Dashboard
+# Bank Customer Segmentation Dashboard
 **Access the full, interactive dashboard on Tableau Public using this link:**
 https://public.tableau.com/views/BankCustomerSegmentationDashboard_16346329785780/BankCustomerSegmentation?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 <img src = './customer_segmentation_dashboard_screenshot.png'>
@@ -37,7 +37,7 @@ https://public.tableau.com/views/BankCustomerSegmentationDashboard_1634632978578
 4. Tree map to show job classifications
 5. Advanced dashboard interactivity
     - Use each worksheet in the dashboard as a filter; every other visualisation in the dashboard will adjust accordingly once a selection has been made
-    - Remove the automatic pop-up that follows the cursor
+    - Remove the automatic pop-up tooltip that follows the cursor
 
 ## Analysis and insights
 ### Overall
