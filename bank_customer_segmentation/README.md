@@ -1,6 +1,6 @@
 # Customer Segmentation Dashboard
 **Access the full, interactive dashboard on Tableau Public using this link:**
-https://public.tableau.com/views/BankCustomerSegmentationDashboard_16334142679930/SegmentationDash?:language=en-US&:display_count=n&:origin=viz_share_link
+https://public.tableau.com/views/BankCustomerSegmentationDashboard_16346329785780/BankCustomerSegmentation?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 <img src = './customer_segmentation_dashboard_screenshot.png'>
 
 ## Data
