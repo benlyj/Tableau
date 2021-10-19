@@ -1,6 +1,6 @@
 # WeWashUSleep Startup Expansion
 **Access the full, interactive storyline on Tableau Public using this link:** https://public.tableau.com/views/WeWashUSleepStartupExpansion/WeWashUSleepStartupExpansion?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
-<img src = './startup_expansion_storyline_screenshot.png'>
+<img src = './startup_expansion_dashboard_screenshot.png'>
 
 ## Background
 - Laundry pickup services startup WeWashUSleep is a relatively small company and cannot compete with the big players in major
